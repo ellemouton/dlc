@@ -1,0 +1,1 @@
+package schnorr implements functions in [BIP340](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki)
